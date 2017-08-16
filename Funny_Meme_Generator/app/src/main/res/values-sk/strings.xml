@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- main -->
+    <string name="main__navdrawer__open">Otvorte navigačný kreslič</string>
+    <string name="main__navdrawer__close">Zavrite navigačný kreslič</string>
+
+    <string name="main__save_meme">Uložiť Meme</string>
+    <string name="main__share_meme">Zdieľť Meme</string>
+    <string name="main__create_meme">Vytvoriť Memo</string>
+    <string name="main__delete_meme">Odstrániť Memo</string>
+
+    <string name="main__memecat__rage">Zlosť</string>
+    <string name="main__memecat__humans">Ľudia</string>
+    <string name="main__memecat__cartoon">Karikatúra</string>
+    <string name="main__memecat__animals">Zvieratá</string>
+
+    <string name="main__mode__saved">Uložené</string>
+    <string name="main__mode__favs">Oblúbené</string>
+    <string name="main__mode__create">Vytvoriť</string>
+
+    <string name="main__get_picture_from_gallery">Vybrať obrázok z Galérie</string>
+    <string name="main__get_picture_from_camera">Vybrať obrázok z fotoaparátu</string>
+    <string name="main__error_camera_cannot_start">Fotoaparát sa nepodarilo spustiť.</string>
+    <string name="main__error_no_picture_selected">Nebol vybratý žiadny obrázok.</string>
+    <string name="main__share_meme_prompt">Podeľte sa o svoju meme cez</string>
+
+    <string name="main__donate_bitcoin">Ohodnotiť Meme Generator</string>
+    <string name="main__recommend_app">Odporuči?</string>
+    <string name="main__changelog">Changelog</string>
+    <string name="main__exit">Ukonči?</string>
+    <string name="main__yes">áno</string>
+
+    <!-- Creator -->
+    <string name="creator__press_back_again_to_exit">Stačte tlačidlo späť znova pre zastavenie upravovania tohoto meme. Meme sa stratí, ak ešte nie je uložené.</string>
+    <string name="creator__saved_successfully_message">Tento meme bol úspešne uložený na vašom zariadení.  Chcete ukončiť úpravu tohoto meme teraz?</string>
+    <string name="creator__text_size">Veľkos? textu</string>
+    <string name="creator__text_color">Farba textu</string>
+    <string name="creator__border_color">Farba hraníc</string>
+    <string name="creator__saved_successfully">Úspešne uložené!</string>
+    <string name="creator__hint_top_caption">Horný titulok</string>
+    <string name="creator__hint_bottom_caption">Spodný titulok</string>
+    <string name="creator__font">Font</string>
+    <string name="creator__no_keep_editing">Nie nadalej upravovať</string>
+
+    <!-- Settings -->
+    <string name="settings__settings">Nastavenia</string>
+    <string name="settings__all_caps">Všetky veľkým</string>
+    <string name="settings__caps_off">Veľké písmená vypnuté</string>
+    <string name="settings__rotate">Otoči?</string>
+    <string name="settings__pref_render_quality_title">Kvalita rederovania</string>
+    <string name="settings__cleanup_thumbnails">Vymažte miniatúry</string>
+    <string name="settings__pref_columns_portrait">Stĺpce na výšku</string>
+    <string name="settings__pref_columns_landscape">Stĺpce na šírku</string>
+
+</resources>
+

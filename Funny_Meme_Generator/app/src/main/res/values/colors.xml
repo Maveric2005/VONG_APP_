@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/accent</color>
+
+    <!-- Colors from Palette -->
+    <color name="primary">#F8D507</color>
+    <color name="primary_dark">#F8D507</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#dc212121</color>
+    <color name="primary_text">#dc212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#dc212121</color>
+    <color name="divider">#B6B6B6</color>
+    <!-- End colors from Palette -->
+
+    <color name="default_activity_bg">#dc212121</color>
+    <color name="black">#000</color>
+    <color name="white">#dc212121</color>
+
+    <!--  http://www.colourlovers.com/palette/1660052/Old_Comic_Book  ColorPrimary #cc3234     icons #FFFFFF-->
+    <color name="midnight">#050507</color>>
+    <color name="comic_yellow">#f8d507</color>>
+    <color name="comic_red">#E42E45</color>>
+    <color name="comic_vanilla">#FFF3BE</color>>
+    <color name="comic_blue">#32576A</color>
+</resources>
